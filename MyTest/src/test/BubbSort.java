@@ -1,7 +1,7 @@
 package test;
 import java.util.Arrays;
 
-//排序
+//排序   hhhh
 public class BubbSort {
 	public static void main(String[] args) {
 		int a[] = { 3, 4, 2, 6, 1 };
